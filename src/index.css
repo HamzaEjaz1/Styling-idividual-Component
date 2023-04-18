@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}
+body{
+  background-color: rgba(221, 221, 221, 0.904);
+}
+
+button{
+  padding: 10px 50px ;
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
